@@ -1,0 +1,515 @@
+{
+  "inventory": {
+    "image_count": 9211,
+    "label_count": 9211,
+    "image_extensions": {
+      ".jpg": 9211
+    },
+    "label_extensions": {
+      ".txt": 9211
+    },
+    "images_missing_labels": [],
+    "labels_missing_images": [],
+    "unexpected_image_names": []
+  },
+  "scan": {
+    "unreadable_images": [],
+    "unexpected_dimensions": [],
+    "unexpected_dimension_count": 0,
+    "exact_duplicate_group_count": 1064,
+    "exact_duplicate_image_count": 2128,
+    "exact_duplicate_examples": [
+      [
+        "DSC_0002_JPG.rf.75e0061ccc454678987b8ec3de16417a.jpg",
+        "DSC_0002_JPG.rf.af2a1a0a20c8ec411f79ab01b118f485.jpg"
+      ],
+      [
+        "DSC_0003_JPG.rf.395eda7f49f350e8bfd6e2fd69437480.jpg",
+        "DSC_0003_JPG.rf.a6746d30d570bd0bfe86ea708ee400ff.jpg"
+      ],
+      [
+        "DSC_0005_JPG.rf.887c414f13f2a701af014bde63dd0b3a.jpg",
+        "DSC_0005_JPG.rf.e5c28b6bf50bc4b0302970f00687e90e.jpg"
+      ],
+      [
+        "DSC_0006_JPG.rf.21757e943f71a088e0b1d746978a3019.jpg",
+        "DSC_0006_JPG.rf.a27a38c324203bda6294848a641b55ac.jpg"
+      ],
+      [
+        "DSC_0007_JPG.rf.a0a7aad713b3a9b675c9ad62f396fd35.jpg",
+        "DSC_0007_JPG.rf.e08be87268385ff79f7781e7f1f53381.jpg"
+      ],
+      [
+        "DSC_0009_JPG.rf.1011de5b6a2b0867db91cdfe8eeed02c.jpg",
+        "DSC_0009_JPG.rf.481809a89c4f8af1604388274524aa28.jpg"
+      ],
+      [
+        "DSC_0010_JPG.rf.8463f82bab667beb8af23790b301f351.jpg",
+        "DSC_0010_JPG.rf.dd4e438ef46c35955537b70e3f45898d.jpg"
+      ],
+      [
+        "DSC_0011_JPG.rf.078bb82023687abbf64e7f8bb9e4857d.jpg",
+        "DSC_0011_JPG.rf.334f93af489c2702a6790427b898f6f3.jpg"
+      ],
+      [
+        "DSC_0013_JPG.rf.72a8b74216ae6ba07fa69c73947b59d9.jpg",
+        "DSC_0013_JPG.rf.e1757ce050595a0b290a8341cc61b837.jpg"
+      ],
+      [
+        "DSC_0014_JPG.rf.a72bd07939d2c046b5e349d901626470.jpg",
+        "DSC_0014_JPG.rf.f4f805ca7d738ddb529ca237d913b57b.jpg"
+      ],
+      [
+        "DSC_0015_JPG.rf.1034a7e3271da68d2529058e25ac5dab.jpg",
+        "DSC_0015_JPG.rf.6d887ece0701388bfeb533bb0d3c38e1.jpg"
+      ],
+      [
+        "DSC_0015_JPG.rf.133a672d219b98b6229d708e6d3b9340.jpg",
+        "DSC_0015_JPG.rf.709f2f27f4739cd6ce614cfc3439a332.jpg"
+      ],
+      [
+        "DSC_0016_JPG.rf.7c609b08e5eeec4201d559c61e5b716a.jpg",
+        "DSC_0016_JPG.rf.e6e5bfd6ac80ab961aaa81bb03f56219.jpg"
+      ],
+      [
+        "DSC_0017_JPG.rf.72ec3016745bee6f7c90bdc223029deb.jpg",
+        "DSC_0017_JPG.rf.a54113d8c9b5a3cd07d90b33fa3b3fd8.jpg"
+      ],
+      [
+        "DSC_0018_JPG.rf.643e4c96ce51752f9227f6a42eddd6c4.jpg",
+        "DSC_0018_JPG.rf.cfdaa464b6c8137ddfb2dab3ed1e8e06.jpg"
+      ],
+      [
+        "DSC_0019_JPG.rf.3d05ee69e623f704111851e870c2e372.jpg",
+        "DSC_0019_JPG.rf.b32356f3bb4e2f23a18d331c728fa900.jpg"
+      ],
+      [
+        "DSC_0021_JPG.rf.20df54dd0f1f8becfd0630396047b3af.jpg",
+        "DSC_0021_JPG.rf.d8a85895ae7ab4895723e4d2df3cbefc.jpg"
+      ],
+      [
+        "DSC_0022_JPG.rf.1d05804e5125ef62b26bc00f3d206042.jpg",
+        "DSC_0022_JPG.rf.be7dcdbb132089a95e82258c0ed8d4aa.jpg"
+      ],
+      [
+        "DSC_0023_JPG.rf.5c556119f7e7fa5411e4e9449711001a.jpg",
+        "DSC_0023_JPG.rf.b60e7119db88e494db2dd38a4f515b6f.jpg"
+      ],
+      [
+        "DSC_0024_JPG.rf.4d74039d7772d469e9a57a87274a2c31.jpg",
+        "DSC_0024_JPG.rf.7e432c8a924d613de04418b3885c66e3.jpg"
+      ]
+    ]
+  },
+  "labels": {
+    "bounding_box_count": 58324,
+    "empty_label_count": 3,
+    "class_box_counts": {
+      "bus": 6681,
+      "car": 27293,
+      "microbus": 3574,
+      "motorbike": 14971,
+      "pickup-van": 4246,
+      "truck": 1559
+    },
+    "class_image_counts": {
+      "bus": 4566,
+      "car": 6783,
+      "microbus": 2775,
+      "motorbike": 5521,
+      "pickup-van": 3192,
+      "truck": 1212
+    },
+    "objects_per_image": {
+      "min": 0,
+      "mean": 6.33199435457605,
+      "median": 4.0,
+      "max": 44,
+      "histogram_head": {
+        "0": 3,
+        "1": 1060,
+        "2": 1237,
+        "3": 1351,
+        "4": 1202,
+        "5": 824,
+        "6": 529,
+        "7": 376,
+        "8": 314,
+        "9": 277,
+        "10": 270,
+        "11": 235,
+        "12": 218,
+        "13": 204,
+        "14": 185,
+        "15": 157,
+        "16": 139,
+        "17": 120,
+        "18": 106,
+        "19": 84,
+        "20": 62
+      }
+    },
+    "bbox_width_percentiles": {
+      "min": 0.00078125,
+      "p50": 0.06328125,
+      "p90": 0.2421875,
+      "p99": 0.72109375,
+      "max": 1.0
+    },
+    "bbox_height_percentiles": {
+      "min": 0.0015625,
+      "p50": 0.0953125,
+      "p90": 0.27890625,
+      "p99": 0.75390625,
+      "max": 1.0
+    },
+    "bbox_area_percentiles": {
+      "min": 2.4414062500000005e-06,
+      "p50": 0.0061065673828125,
+      "p90": 0.06621215820312507,
+      "p99": 0.4605884826660148,
+      "max": 1.0
+    },
+    "boxes_extending_outside_image": 0,
+    "tiny_boxes": 112,
+    "label_issue_counts": {
+      "empty_label": 3
+    },
+    "label_issue_examples": {
+      "empty_label": [
+        "DSC_0404_JPG.rf.1842e626a0c986f9d51273137a10c685.jpg",
+        "DSC_0449_JPG.rf.18a7b613a9194878e1cb2c026d16374b.jpg",
+        "DSC_0453_JPG.rf.f5f8694eeaf0e0c0bb4040c6e2404a90.jpg"
+      ]
+    }
+  },
+  "similarity": {
+    "nearest_distance_percentiles": {
+      "min": 0,
+      "p50": 5,
+      "p90": 13,
+      "p99": 18,
+      "max": 21
+    },
+    "nearest_distance_histogram": {
+      "0-0": 2275,
+      "1-5": 2643,
+      "6-10": 2704,
+      "11-15": 1069,
+      "16-20": 513,
+      "21-30": 7,
+      "31-64": 0
+    },
+    "images_with_identical_neighbor": 2275,
+    "identical_hash_pair_count": 2005,
+    "mirrored_hash_pair_count": 169
+  },
+  "grouping": {
+    "group_count": 4390,
+    "multi_image_group_count": 1092,
+    "images_in_multi_image_groups": 5913,
+    "largest_group_size": 2432,
+    "largest_groups": [
+      {
+        "group_id": 148,
+        "image_count": 2432,
+        "prefixes": {
+          "DSC": 2432
+        },
+        "examples": [
+          "DSC_0001_JPG.rf.0405e81217241e40a020bcda14b59773.jpg",
+          "DSC_0002_JPG.rf.35ad3dcaa7ddd199fe251d924a8472ba.jpg",
+          "DSC_0002_JPG.rf.75e0061ccc454678987b8ec3de16417a.jpg",
+          "DSC_0002_JPG.rf.af2a1a0a20c8ec411f79ab01b118f485.jpg",
+          "DSC_0003_JPG.rf.395eda7f49f350e8bfd6e2fd69437480.jpg"
+        ]
+      },
+      {
+        "group_id": 3960,
+        "image_count": 28,
+        "prefixes": {
+          "DSC": 28
+        },
+        "examples": [
+          "DSC_0948_JPG.rf.8e3fea53d7e426062a22c56ec19f9cb3.jpg",
+          "DSC_0948_JPG.rf.dbec7d944d69acd41d29c9dbdd45ed8f.jpg",
+          "DSC_0949_JPG.rf.5b89ebdab87dc1cf21e7cbe10f9317a5.jpg",
+          "DSC_0949_JPG.rf.78bfca9adc8ea38a8ee689ba8081bf97.jpg",
+          "DSC_0949_JPG.rf.9723e309aea137f796f829216ed75020.jpg"
+        ]
+      },
+      {
+        "group_id": 1274,
+        "image_count": 21,
+        "prefixes": {
+          "DSC": 21
+        },
+        "examples": [
+          "DSC_0260_JPG.rf.6cc3a3796272bfa957bdc55808cae1e6.jpg",
+          "DSC_0261_JPG.rf.3853d62ca4ea250787986d7a0fe1bd62.jpg",
+          "DSC_0262_JPG.rf.9f95dc546c1e4c5bda121c8a9680d87f.jpg",
+          "DSC_0263_JPG.rf.42b92de6af847a9fa06b098ace3c4722.jpg",
+          "DSC_0264_JPG.rf.d0883369e3edfe1d198019c87dbe6002.jpg"
+        ]
+      },
+      {
+        "group_id": 490,
+        "image_count": 19,
+        "prefixes": {
+          "DSC": 19
+        },
+        "examples": [
+          "DSC_0078_JPG.rf.127a138fffac1103c90c353739784233.jpg",
+          "DSC_0079_JPG.rf.a3cec716242f810f4b6962d44f9c2c4c.jpg",
+          "DSC_0080_JPG.rf.88b4825b1517e6ccaa22bf7939bd8439.jpg",
+          "DSC_0081_JPG.rf.77f602b327e8c89c7940688f09d0aaf7.jpg",
+          "DSC_0081_JPG.rf.78d0106e35ec52f0013f3cc998e96edf.jpg"
+        ]
+      },
+      {
+        "group_id": 2115,
+        "image_count": 18,
+        "prefixes": {
+          "DSC": 18
+        },
+        "examples": [
+          "DSC_0438_JPG.rf.6d4e03497e1e5f68ae6d4ade7c7ec95f.jpg",
+          "DSC_0438_JPG.rf.b03ccdbab22a34ae70d8e5d953089b88.jpg",
+          "DSC_0439_JPG.rf.27c6a31a5969687cccd6acf8c9facb4d.jpg",
+          "DSC_0439_JPG.rf.f4db06f0bd2c6d6023d68bed639cdfea.jpg",
+          "DSC_0440_JPG.rf.1d27460d21d3c0c43ac403cf1bb5e335.jpg"
+        ]
+      },
+      {
+        "group_id": 339,
+        "image_count": 17,
+        "prefixes": {
+          "DSC": 17
+        },
+        "examples": [
+          "DSC_0044_JPG.rf.bf7877a6896aa7bef2793962c51c6f93.jpg",
+          "DSC_0045_JPG.rf.56e71057968c501a0a59ac92eb73c085.jpg",
+          "DSC_0046_JPG.rf.77b4b36c8c1c6092dcdfc83e4fd9a46b.jpg",
+          "DSC_0047_JPG.rf.a34ca24184af853fd914da021c3cd9ea.jpg",
+          "DSC_0048_JPG.rf.4d9d439145e1786eb567ecd52dcd924b.jpg"
+        ]
+      },
+      {
+        "group_id": 1146,
+        "image_count": 16,
+        "prefixes": {
+          "DSC": 16
+        },
+        "examples": [
+          "DSC_0232_JPG.rf.0cc6b599d2eef40520264d22c819ae52.jpg",
+          "DSC_0233_JPG.rf.5e20ab0d787a1c2f7762519aa833143e.jpg",
+          "DSC_0233_JPG.rf.e198b9de99e5f749fc9ff7519c2d41dc.jpg",
+          "DSC_0234_JPG.rf.92db6a596278ade750a295abb51b7bf6.jpg",
+          "DSC_0234_JPG.rf.d8ef7f2f2184d7b779b2d553824e0a93.jpg"
+        ]
+      },
+      {
+        "group_id": 668,
+        "image_count": 15,
+        "prefixes": {
+          "DSC": 15
+        },
+        "examples": [
+          "DSC_0121_JPG.rf.e9ad80d874bdd58a9b7e8bc3e7009547.jpg",
+          "DSC_0122_JPG.rf.fd3ece8b93748cd678ddf8f6a6eb49fa.jpg",
+          "DSC_0123_JPG.rf.08db916ef42f2556a6ad3957697f7568.jpg",
+          "DSC_0124_JPG.rf.3c2881dcbf027cf6492fd1c0d4db7ff9.jpg",
+          "DSC_0125_JPG.rf.9e4f04c2063781ffea3880cd0db2c128.jpg"
+        ]
+      },
+      {
+        "group_id": 1427,
+        "image_count": 15,
+        "prefixes": {
+          "DSC": 15
+        },
+        "examples": [
+          "DSC_0293_JPG.rf.5c7d0c69e9815c1bac4c142efb2e9e46.jpg",
+          "DSC_0294_JPG.rf.1d0444625b663402eb907656c03f2c37.jpg",
+          "DSC_0294_JPG.rf.a257285fb9c40c1357d392fa46dcc3b4.jpg",
+          "DSC_0294_JPG.rf.d09095f2afa491c9174245064943b870.jpg",
+          "DSC_0295_JPG.rf.6f86b81fb5a185f61377e8c280d6c386.jpg"
+        ]
+      },
+      {
+        "group_id": 2736,
+        "image_count": 15,
+        "prefixes": {
+          "DSC": 15
+        },
+        "examples": [
+          "DSC_0584_JPG.rf.4cfb6c27c489954763d0894fb5fa107b.jpg",
+          "DSC_0585_JPG.rf.5dec67a2733e4bd010b70624d4e51238.jpg",
+          "DSC_0586_JPG.rf.393874fef8585c2cc73c915dbebee134.jpg",
+          "DSC_0587_JPG.rf.f76a68737fbb449fb7211e8bdad8309b.jpg",
+          "DSC_0588_JPG.rf.dcd58947ee875f5b55ed1105e2b7d7cb.jpg"
+        ]
+      },
+      {
+        "group_id": 3164,
+        "image_count": 15,
+        "prefixes": {
+          "DSC": 15
+        },
+        "examples": [
+          "DSC_0690_JPG.rf.9b9782909570b7592e4d79a3bcf38399.jpg",
+          "DSC_0691_JPG.rf.99ff6ee7a21c3077f34f1ba40e814940.jpg",
+          "DSC_0692_JPG.rf.8ed536d7cbe1a07182ad5ae44c5e47df.jpg",
+          "DSC_0693_JPG.rf.8e89efadfa46c1a7e3951b9208091a48.jpg",
+          "DSC_0694_JPG.rf.3b9226605f2fd68b953cbfaaccda609c.jpg"
+        ]
+      },
+      {
+        "group_id": 1546,
+        "image_count": 14,
+        "prefixes": {
+          "DSC": 14
+        },
+        "examples": [
+          "DSC_0320_JPG.rf.7f086356afaa1c1e7285c6242ba20d69.jpg",
+          "DSC_0320_JPG.rf.98dd78c265cd4fcdc2d9983d875926ec.jpg",
+          "DSC_0320_JPG.rf.d1a27eccd0b26c4fe5f3602e74a17963.jpg",
+          "DSC_0321_JPG.rf.7bf7ce44b0237f6eee781ad7fdba6b6c.jpg",
+          "DSC_0321_JPG.rf.eaa6111609e867b7ca3e4d80566b8c9b.jpg"
+        ]
+      },
+      {
+        "group_id": 1789,
+        "image_count": 14,
+        "prefixes": {
+          "DSC": 14
+        },
+        "examples": [
+          "DSC_0373_JPG.rf.834e8b5fdcc72ed66788b2d5690878ef.jpg",
+          "DSC_0374_JPG.rf.86d86c1601808f38538ecbb34231734c.jpg",
+          "DSC_0374_JPG.rf.a7916b66ed825a299c5198f41f689c9c.jpg",
+          "DSC_0375_JPG.rf.b3b335dde8808b5ef638021d0e8e0254.jpg",
+          "DSC_0375_JPG.rf.f333cff4226ad507714c210aa39599c6.jpg"
+        ]
+      },
+      {
+        "group_id": 2458,
+        "image_count": 14,
+        "prefixes": {
+          "DSC": 14
+        },
+        "examples": [
+          "DSC_0511_JPG.rf.56e005d7f75b6cda8efe6ff4709d8693.jpg",
+          "DSC_0512_JPG.rf.eb315e58c5d95848510c44eec9571ee5.jpg",
+          "DSC_0513_JPG.rf.d2008d52876a64efa68daae1bceda768.jpg",
+          "DSC_0514_JPG.rf.955d82a9cc412632ad4c814a48a33804.jpg",
+          "DSC_0515_JPG.rf.1a1bbc8a2dadbb444e2c69692e71e3de.jpg"
+        ]
+      },
+      {
+        "group_id": 413,
+        "image_count": 13,
+        "prefixes": {
+          "DSC": 13
+        },
+        "examples": [
+          "DSC_0061_JPG.rf.41a3e31290e8eef4466bf11a764fcef6.jpg",
+          "DSC_0062_JPG.rf.c8875f68ed350f13ea1c7acdd09a9dbe.jpg",
+          "DSC_0063_JPG.rf.db4ee833d7c8fc473b79835d7123c617.jpg",
+          "DSC_0064_JPG.rf.79a982d94bfa34504715eef9a734f285.jpg",
+          "DSC_0065_JPG.rf.5132ff4a19d01c802117564942861658.jpg"
+        ]
+      }
+    ],
+    "filename_patterns": {
+      "sequence_prefixes": {
+        "DSC": 8548,
+        "car": 147,
+        "truck": 514
+      },
+      "unmatched_source_stems": [],
+      "unmatched_source_stem_count": 0
+    },
+    "shared_filename_stems": {
+      "unique_source_stems": 1662,
+      "stems_with_multiple_files": 999,
+      "stems_with_no_identical_pair": 115,
+      "minimum_within_stem_distance_percentiles": {
+        "min": 0,
+        "p50": 0.0,
+        "p90": 8.200000000000045,
+        "max": 27
+      }
+    },
+    "video_prefixes": {
+      "bd_mp4": 2
+    },
+    "link_counts": {
+      "exact_duplicate": 1064,
+      "identical_hash": 2005,
+      "mirrored_hash": 169,
+      "sequence_neighbor": 7562,
+      "video_filename": 1
+    }
+  },
+  "parameters": {
+    "random_seed": 42,
+    "ratios": {
+      "train": 0.8,
+      "val": 0.1,
+      "test": 0.1
+    },
+    "identical_hash_max_distance": 0,
+    "sequence_max_distance": 12,
+    "sequence_max_frame_gap": 3,
+    "class_names": [
+      "bus",
+      "car",
+      "microbus",
+      "motorbike",
+      "pickup-van",
+      "truck"
+    ]
+  },
+  "split": {
+    "image_counts": {
+      "train": 7369,
+      "val": 921,
+      "test": 921
+    },
+    "image_ratios": {
+      "train": 0.800021713169037,
+      "val": 0.09998914341548149,
+      "test": 0.09998914341548149
+    },
+    "class_box_counts": {
+      "train": {
+        "bus": 5621,
+        "car": 23676,
+        "microbus": 2973,
+        "motorbike": 12679,
+        "pickup-van": 3590,
+        "truck": 1319
+      },
+      "val": {
+        "bus": 524,
+        "car": 1785,
+        "microbus": 299,
+        "motorbike": 1135,
+        "pickup-van": 326,
+        "truck": 117
+      },
+      "test": {
+        "bus": 536,
+        "car": 1832,
+        "microbus": 302,
+        "motorbike": 1157,
+        "pickup-van": 330,
+        "truck": 123
+      }
+    },
+    "output_dir": "dataset_split",
+    "data_yaml": "dataset_split/data.yaml",
+    "manifest": "reports\\split_manifest.csv"
+  }
+}

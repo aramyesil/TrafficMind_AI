@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+outputs/
+train/
+dataset_split/images/
+dataset_split/labels/
+Makine*.docx
+runs/detect/runs/yolo26n/args.yaml
